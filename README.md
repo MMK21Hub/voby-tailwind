@@ -15,7 +15,7 @@ In the project directory, you can run:
 ### `yarn dev` or `yarn start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5174](http://localhost:5174) to view it in the browser.
 
 The page will reload if you make edits.<br>
 
@@ -29,9 +29,9 @@ Your app is ready to be deployed!
 
 ### `yarn serve`
 
-After You Build the App, these Command Runs the app in the local production mode.<br>
+After you build the app, this command runs the app in local production mode.<br>
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ## Deployment
 
-You can deploy the `dist` folder to any static host provider (netlify, vercel, cloudflare pages, etc.)
+You can deploy the `dist` folder to any static host provider (Netlify, Vercel, Cloudflare Pages, etc.)
