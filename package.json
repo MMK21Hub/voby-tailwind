@@ -21,5 +21,6 @@
   "dependencies": {
     "voby": "*"
   },
-  "private": true
+  "private": true,
+  "packageManager": "yarn@4.10.3"
 }
